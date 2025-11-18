@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Laser Controller", page_icon="🔴", layout="centered")
 
-st.title("🔴 Laser Controller")
+st.title("🔴 Laser Controller updataed")
 
 # --- Laser configuration inputs ---
 st.subheader("Laser Configuration")
